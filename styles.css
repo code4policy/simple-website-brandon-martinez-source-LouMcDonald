@@ -37,3 +37,9 @@ img {
   height: auto;
 
 }
+
+/* Italicized text */
+
+.italic-text {
+  font-style: italic;
+}
